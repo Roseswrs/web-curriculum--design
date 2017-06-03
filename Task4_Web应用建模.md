@@ -7,4 +7,4 @@
 
 2.活动图
 ---------
-![image](https://github.com/foolishzhao/web/raw/master/)
+![image](https://github.com/foolishzhao/web/raw/master/Cache_78ef946d6d7c76f1..jpg)
