@@ -7,3 +7,4 @@
 
 2.活动图
 ---------
+![image](https://github.com/foolishzhao/web/raw/master/)
