@@ -16,18 +16,18 @@ author:14130140359肖蜜
 
 1、类图
 ---------
-![image](https://github.com/homilly/Web_Course/blob/master/1.png)
+![image](https://github.com/homilly/web-curriculum--design/blob/master/1.png)
 
 2.状态图
 ---------
 * ###  User类状态图：
 ------
-![image](https://github.com/homilly/Web_Course/blob/master/2.png)
+![image](https://github.com/homilly/web-curriculum--design/blob/master/2.png)
 
 * ### information类状态图：
 ------
-![image](https://github.com/homilly/Web_Course/blob/master/3.png)
+![image](https://github.com/homilly/web-curriculum--design/blob/master/3.png)
 
 * ### comment类状态图：
 ------
-![image](https://github.com/homilly/Web_Course/blob/master/4.png)
+![image](https://github.com/homilly/web-curriculum--design/blob/master/4.png)
