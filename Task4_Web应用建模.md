@@ -18,6 +18,18 @@ author:14130140359肖蜜
 ---------
 ![image](https://github.com/homilly/web-curriculum--design/blob/master/1.png)
 
+详细设计
+---------
+![image](https://github.com/homilly/web-curriculum--design/blob/master/dao.png)
+
+![image](https://github.com/homilly/web-curriculum--design/blob/master/Service.png)
+
+![image](https://github.com/homilly/web-curriculum--design/blob/master/domain.png)
+
+![image](https://github.com/homilly/web-curriculum--design/blob/master/utils.png)
+
+![image](https://github.com/homilly/web-curriculum--design/blob/master/web.png)
+
 2.状态图
 ---------
 * ###  User类状态图：
