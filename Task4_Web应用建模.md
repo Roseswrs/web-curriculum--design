@@ -30,7 +30,7 @@ author:14130140359肖蜜
 
 ![image](https://github.com/homilly/web-curriculum--design/blob/master/web.png)
 
-2.状态图
+2.状态图 
 ---------
 * ###  User类状态图：
 ------
@@ -50,7 +50,7 @@ author:
 
 1.静态建模（导航类图）
 ------
-![image](https://github.com/foolishzhao/web/raw/master/超文本2.png)
+![image](https://github.com/foolishzhao/web/raw/master/超文本3.png)
 
 
 
