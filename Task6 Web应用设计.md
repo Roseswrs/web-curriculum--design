@@ -1,6 +1,7 @@
 # Task6 Web应用设计
 ****
-#####   学号：14130140357   姓名：张岚
+#####   学号：14130140357   姓名：张岚
+#####   学号: 14130140398   姓名：陈曦
 ## 第一部分————交互设计
 -----
  ![image](https://github.com/shuishuizl/web/blob/master/needpicture/importmassage.png)
