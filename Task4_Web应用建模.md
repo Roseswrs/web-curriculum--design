@@ -52,7 +52,7 @@ author:14130140358赵妍
 ------
 ![image](https://github.com/foolishzhao/web/raw/master/超文本3.png)
 
-
+common user视角的超文本结构模型
 
 四、适应性建模
 ========
