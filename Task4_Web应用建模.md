@@ -11,7 +11,7 @@ author:14130140358赵妍
 ![image](https://github.com/foolishzhao/web/raw/master/Cache_78ef946d6d7c76f1..jpg)
 
 二、内容建模
-=======
+======= 
 author:14130140359肖蜜
 
 1、类图
@@ -43,3 +43,24 @@ author:14130140359肖蜜
 * ### comment类状态图：
 ------
 ![image](https://github.com/homilly/web-curriculum--design/blob/master/4.png)
+
+三、超文本建模
+=======
+author:
+
+1.静态建模（导航类图）
+------
+![image](https://github.com/foolishzhao/web/raw/master/超文本2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
