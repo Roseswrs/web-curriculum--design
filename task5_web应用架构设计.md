@@ -11,7 +11,7 @@
 
 ## 二、系统架构图
 **author  14130140399   王一诺**
-
+![image](https://github.com/djhw/web-curriculum--design/blob/master/picture.png)
 
 
 ## 三、架构设计图组件功能说明
