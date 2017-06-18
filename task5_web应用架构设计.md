@@ -10,10 +10,10 @@
 * author  14130140399   王一诺
 ## 二、系统架构图
 
-------
+
 * author  14130140403   
 ## 三、架构设计图组件功能说明
-![image](https://github.com/djhw/web-curriculum--design/web/raw/master/超文本3.png) 
+
 
 
 
