@@ -71,8 +71,12 @@ author:14130140358赵妍
 
 动态适应模型是根据不同用户（用户集）的个性化需求，在运行时通过一些转换规则进行相应的变化，来满足用户需求的一种建模方式。与静态适应相比，采用动态适应时要提交一些和上下文相关的内容、超文本和展示模型的转换规则。
 上图展示了超文本模型中索引的动态适应。在本系统中WantedInformation可具体化为通过索引选择用户学院，班级，信息种类，以及拥有特别关注功能，用户可以选择特别关注某一类信息，当用户登录到本系统时，特别关注信息首先推送，还可以定制服务将用户账号与手机号绑定，特别关注信息将会第一时间推送到用户的手机上
+14130140398 陈曦
+![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214359.jpg)
 
+![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214407.jpg)
 
+![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214412.jpg)
 
 
 
