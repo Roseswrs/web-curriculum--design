@@ -9,7 +9,7 @@ author:14130140358赵妍
 2.活动图
 ---------
 ![image](https://github.com/foolishzhao/web/raw/master/Cache_78ef946d6d7c76f1..jpg)
-
+ 
 二、内容建模
 ======= 
 author:14130140359肖蜜
@@ -50,7 +50,7 @@ author:
 
 1.静态建模（导航类图）
 ------
-![image](https://github.com/foolishzhao/web/raw/master/超文本.png)
+![image](https://github.com/foolishzhao/web/raw/master/超文本2.png)
 
 
 
