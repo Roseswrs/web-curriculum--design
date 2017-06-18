@@ -17,6 +17,8 @@
 
 ## 三、架构设计图组件功能说明
 **author  14130140403   邓晶晶**
+-------
+![image](https://github.com/djhw/web-curriculum--design/blob/master/chart.png)
 
 
 
