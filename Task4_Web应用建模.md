@@ -50,7 +50,7 @@ author:
 
 1.静态建模（导航类图）
 ------
-![image](https://github.com/foolishzhao/web/raw/master/超文本2.png)
+![image](https://github.com/foolishzhao/web/raw/master/超文本.png)
 
 
 
