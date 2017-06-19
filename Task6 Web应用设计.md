@@ -2,6 +2,7 @@
 ****
 #####   学号：14130140357   姓名：张岚
 #####   学号: 14130140398   姓名：陈曦
+#####   学号: 14130140396   姓名：吴莹晶
 ## 第一部分————交互设计
 -----
  ![image](https://github.com/shuishuizl/web/blob/master/needpicture/importmassage.png)
