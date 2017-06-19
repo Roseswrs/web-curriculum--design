@@ -73,13 +73,20 @@ author:14130140358赵妍
 上图展示了超文本模型中索引的动态适应。在本系统中WantedInformation可具体化为通过索引选择用户学院，班级，信息种类，以及拥有特别关注功能，用户可以选择特别关注某一类信息，当用户登录到本系统时，特别关注信息首先推送，还可以定制服务将用户账号与手机号绑定，特别关注信息将会第一时间推送到用户的手机上
 
 
-14130140398 陈曦
+四：适应性建模
+
+author:14130140398 陈曦
 ----------
-![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214359.jpg)
+1:静态建模 　　
+针对不同的上下文来为用户展示不同的模型，同时还要注意不同模型的变化以及后期可能的模型数量的增加。 　
+静态建模如下所示（引用自超文本的静态建模）：
+![image](https://github.com/supervicchen/vic/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-19%20%E4%B8%8A%E5%8D%889.13.54.png)
+2:动态建模 
+主要展示用户个性化的动态适应,采用动态适应时与静态适应不同，它需要提交一些上下文相关内容，超文本等。
+下面展示的是索引的动态适应。
+![image](https://github.com/supervicchen/vic/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-19%20%E4%B8%8A%E5%8D%889.23.00.png)
 
-![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214407.jpg)
 
-![image](https://github.com/supervicchen/vic/blob/master/QQ%E5%9B%BE%E7%89%8720170618214412.jpg)
 
 
 
