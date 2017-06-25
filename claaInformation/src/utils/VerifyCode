@@ -18,19 +18,19 @@ public class VerifyCode {
 	private int w =100;
 	private int h =40;
  	private Random r = new Random();
-	private String[] fontNames  = {"宋体", "华文楷体", "黑体", "华文新魏", "华文隶书", "微软雅黑", "楷体_GB2312"};
+	private String[] fontNames  = {"宋体", "华文楷体", "黑体", "华文新魏", "华文隶书", "微软雅黑", "楷体_GB2312"};//初始化字体的名字
 	private String codes  = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	private Color bgColor  = new Color(240, 240, 240);
 	private String text ;
 	
-	private Color randomColor () {
+	private Color randomColor () {//初始化颜色
 		int red = r.nextInt(256);
 		int green = r.nextInt(256);
 		int blue = r.nextInt(256);
 		return new Color(red, green, blue);
 	}
 	
-	private Font randomFont () {
+	private Font randomFont () {/初始化窗口的名字，大小，风格
 		int index = r.nextInt(fontNames.length);
 		String fontName = fontNames[index];
 		int style = r.nextInt(4);
