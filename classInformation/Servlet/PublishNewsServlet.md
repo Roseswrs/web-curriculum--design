@@ -58,3 +58,4 @@ public class PublishNewsServlet extends HttpServlet {
 		resp.sendRedirect(req.getContextPath() + "/news/success.jsp");
 	}
 }
+
