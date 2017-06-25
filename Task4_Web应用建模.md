@@ -48,13 +48,13 @@ author:14130140359肖蜜
 =======
 author:14130140361 辛辛
 
-
 1.静态建模（导航类图）
-------
+-----------
+![image](https://github.com/Xingmini/web/blob/master/结构模型.png)
 
 2.动态建模
-
-
+-----------
+![image](https://github.com/Xingmini/web/blob/master/动态模型.png)
 
 四：适应性建模
 =====================
