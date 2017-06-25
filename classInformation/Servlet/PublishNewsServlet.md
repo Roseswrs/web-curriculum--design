@@ -30,6 +30,7 @@ public class PublishNewsServlet extends HttpServlet {
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		req.setCharacterEncoding("utf-8");
+		
 		resp.setCharacterEncoding("utf-8");
 		// 获取当前用户姓名
 		String user_id = (String) req.getSession().getAttribute("currentstu_num");
