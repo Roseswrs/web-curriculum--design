@@ -1,5 +1,7 @@
-
-
+/**
+*14130140358 赵妍
+*
+*/
 import java.io.IOException;
 import java.text.Format;
 import java.text.SimpleDateFormat;
@@ -15,7 +17,7 @@ import sun.text.resources.FormatData_ca;
 import sun.text.resources.FormatData_en_ZA;
 /**
  * 接受用户提交的评论并存储，提交成功后返回
- * @author YZZ
+ * @author zy
  *
  */
 
