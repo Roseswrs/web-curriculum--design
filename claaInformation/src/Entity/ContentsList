@@ -1,0 +1,34 @@
+/**
+ author 邓晶晶
+ stu_ID 14130140403
+*/
+
+package com.classInfo.Entity;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ContentsList {
+	private int totalnum;//消息总数
+	private List<Contents> list=new ArrayList<Contents>();//存放消息
+	public int getTotalnum() {
+		return totalnum;
+	}
+	public void setTotalnum(int totalnum) {
+		this.totalnum = totalnum;
+	}
+	public List<Contents> getList() {
+		return list;
+	}
+	public void setList(List<Contents> list) {
+		this.list = list;
+	}
+	public ContentsList() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public String toString() {
+		return "ContentsList [totalnum=" + totalnum + ", list=" + list + "]";
+	}
+}
