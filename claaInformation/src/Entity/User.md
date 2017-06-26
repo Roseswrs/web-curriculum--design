@@ -1,12 +1,12 @@
- /** 
-  * author 邓晶晶 
-  * stu_ID 14130140403
-  */
+ * /** 
+ * * author 邓晶晶 
+ * *stu_ID 14130140403
+ * */
  
- package com.classInfo.Entity;
- //user实体类
+ * package com.classInfo.Entity;
+ * //user实体类
  
- public class User { 
+ * public class User { 
     private String username; // 姓名 
     private String password; // 密码
     // private String userLevel; 
