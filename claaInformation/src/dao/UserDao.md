@@ -10,6 +10,7 @@ import com.classInfo.Entity.User;
  * 用户操作的接口
  */
 public interface UserDao {
+	
 	public User findByStu_num(String stu_num); //通过学号查找
 	public User findByName(String name);       //通过姓名查找
 	public void add(User user);                 //添加用户
