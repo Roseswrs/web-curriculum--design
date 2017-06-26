@@ -1,0 +1,13 @@
+/** author 邓晶晶 stu_ID 14130140403*/
+package com.classInfo.Entity;
+public class Contents { private int newsId; // 消息的id private String user_id; // 发布评论的ID private String content; // 评论 private String date; // 日期
+ public Contents() {  super();  // TODO Auto-generated constructor stub } public int getNewsId() {  return newsId; }
+ public void setNewsId(int newsId) {  this.newsId = newsId; }
+ public String getUserid() {  return user_id; }
+ public void setUser_id(String username) {  this.user_id = username; }
+ public String getContent() {  return content; }
+ public void setContent(String content) {  this.content = content; }
+ public String getDate() {  return date; }
+ public void setDate(String date) {  this.date = date; }
+ @Override public String toString() {  return "Message [newsId=" + newsId + ", username=" + user_id    + ", content=" + content + ", date=" + date + "]"; }
+}
