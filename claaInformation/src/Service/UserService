@@ -1,5 +1,7 @@
 package com.classInfo.Service;
-
+/**
+*   @author 14130140396-吴莹晶
+*/
 import com.classInfo.Dao.DaoFactory;
 import com.classInfo.Dao.UserDao;
 import com.classInfo.Entity.User;
