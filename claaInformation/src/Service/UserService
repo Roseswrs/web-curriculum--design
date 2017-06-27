@@ -1,0 +1,71 @@
+package com.classInfo.Service;
+
+import com.classInfo.Dao.DaoFactory;
+import com.classInfo.Dao.UserDao;
+import com.classInfo.Entity.User;
+
+
+public class UserService {
+	private UserDao userDao = DaoFactory.getUserDao();
+	
+	/**
+	 * 注册功能
+	 * 1.使用用户名去查询，如果返回null完成添加
+	 * 2.如果返回的不是null，抛出异常
+	 */
+	public void regist(User user)throws UserException{
+		//通过学号查找
+		User _user=userDao.findByStu_num(user.getStuNum());
+		if(_user!=null){
+			throw new UserException("学号"
+					+user.getStuNum()+"已被注册!");
+		}
+		//否则添加该用户
+		userDao.add(user);
+	}
+	//登录功能
+	public void login(User user) throws UserException{
+//		String result;
+		System.out.println(user);
+		User _user=userDao.findByStu_num(user.getStuNum());
+		
+		if(_user!=null){
+			if(_user.getPassword().equals(user.getPassword())){
+				
+			}else{
+				throw new UserException("密码错误");
+			}
+		}else{
+			throw new UserException("该用户不存在，确定您的学号已经在系统中注册？");
+		}
+	}
+	
+	//查找用户
+	public User searchUser(String way,String param) throws UserException{
+		User user=null;
+		if(way.equals("stuID")){
+			user=userDao.findByStu_num(param);
+		}else if(way.equals("name")){
+			user=userDao.findByName(param);
+		}
+		
+		if(user==null){
+			throw new UserException("该用户不存在");
+		}
+		
+		return user;
+	}
+	
+	//删除用户
+	public void deleteUserById(String id){
+		
+		userDao.deleteByStu_id(id);
+		
+	}
+	
+	//修改用户信息
+	public void changeInfo(User user){
+		userDao.changeUserInfo(user);
+	}
+	
+}
