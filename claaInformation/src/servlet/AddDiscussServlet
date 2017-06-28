@@ -12,8 +12,8 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import com.yzz.domain.Message;
-import com.yzz.service.NewsService;
+import com.classInfo.domain.Message;
+import com.classInfo.service.NewsService;
 import sun.text.resources.FormatData_ca;
 import sun.text.resources.FormatData_en_ZA;
 /**
@@ -62,4 +62,4 @@ public class AddDiscussServlet extends HttpServlet {
 	}
 }
 
-
+```
