@@ -4,7 +4,7 @@
 /*
 author：14130140358赵妍
 */
-package com.yzz.web.servlet;
+package com.classInfo.web.servlet;
 
 import java.io.IOException;
 
@@ -13,10 +13,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.yzz.dao.UserDaoJDBC;
-import com.yzz.domain.User;
-import com.yzz.service.UserException;
-import com.yzz.service.UserService;
+import com.classInfo.dao.UserDaoJDBC;
+import com.classInfo.domain.User;
+import com.classInfo.service.UserException;
+import com.classInfo.service.UserService;
 
 
 
