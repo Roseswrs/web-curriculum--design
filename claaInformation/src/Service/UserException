@@ -1,8 +1,8 @@
 package com.classInfo.Service;
+/**
+*   @author 14130140396-吴莹晶
+*/
 public class UserException extends Exception {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	/**
